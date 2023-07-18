@@ -8,7 +8,7 @@ description: 直接放归纳好的重点
 * 有言是“**宿舍是时间的黑洞**”，如果你的宿舍不是那种五人同心的默契模范宿舍(_参考暨大公众号上的各种全员保研考研上岸神仙宿舍_)，那么请你**多 走 出 宿 舍**，不要在宿舍里被温水煮青蛙，在宿舍睡一觉一个上午/下午就快结束了是常有的事情，请**珍惜自己的时间**，干点正事(_认真_)
 * 注意我们的上下课时间
 
-<figure><img src="../.gitbook/assets/lessontime.jpg" alt=""><figcaption><p>课程时间表</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/lessontime.jpg" alt=""><figcaption><p>课程时间表</p></figcaption></figure>
 
 * **番禺校区**记住几个时间点
   * 早八上课：**8:30**， 早八下课：**10:10**
@@ -28,4 +28,4 @@ description: 直接放归纳好的重点
 * 如果有打印一些资料的需求，我推荐大家先把要打印的文件转为**pdf格式**再打印pdf格式下的文件，**pdf格式**能保证你在什么平台上打开后排版格式都不会变形，如果你是一个office和WPS混用的用户你会很快明白这件事存在的必要性
 * 如果你和我一样出门坐地铁不看导航规划，这里贴一张广州地铁线路图
 
-<figure><img src="../.gitbook/assets/subway.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/subway.jpg" alt=""><figcaption></figcaption></figure>
