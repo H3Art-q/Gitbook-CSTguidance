@@ -6,7 +6,7 @@ description: 这门课也许是大一上期间唯一一门全程无尿点的课�
 
 上一年我们的授课老师是**Cecilia**老师，课本用的是这本(_淘宝上的图，跟我用的老版本长的有点不一样_)
 
-<figure><img src="../.gitbook/assets/EngListenBook.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/EngListenBook.png" alt=""><figcaption><p>英语听说用书</p></figcaption></figure>
 
 只用这本黄色第二册的，但这本书**无法白嫖师兄师姐**的，因为她会叫大家搞一本全新书，每节课后完成一章后面的全部题目(_难度偏高，什么花里胡哨的听力材料都有_)，上课的时候会随机检查大家的完成情况并登记，上课时也会进行练习(_在听力机房上课，座位固定，不能逃课_)，放一个[听力材料链接](http://www.kekenet.com/Article/15414/)，里面也有听力的原文材料(_想抄答案也可以，谁没补过作业呢【_)
 
