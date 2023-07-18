@@ -4,11 +4,11 @@
 
 * [0x00🐭给CST孩子们的一份小指南](README.md)
 * [0x01🤔想想自己未来要成为什么样的人吧](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba.md)
-* [0x02🥵军训/新训相关](intro/2.-jun-xun-xin-xun-xiang-guan.md)
-* [0x03🥳社团/组织相关](intro/3.-she-tuan-zu-zhi-xiang-guan.md)
 
 ## 😇 SURVIVAL(
 
+* [0x02🥵军训/新训相关](survival/2.-jun-xun-xin-xun-xiang-guan.md)
+* [0x03🥳社团/组织相关](survival/3.-she-tuan-zu-zhi-xiang-guan.md)
 * [0x04🤑日常生活相关](survival/4.-ri-chang-sheng-huo-xiang-guan/README.md)
   * [浅谈吃饭事务](survival/4.-ri-chang-sheng-huo-xiang-guan/qian-tan-chi-fan-shi-wu.md)
   * [关于非正餐消费](survival/4.-ri-chang-sheng-huo-xiang-guan/guan-yu-fei-zheng-can-xiao-fei.md)
