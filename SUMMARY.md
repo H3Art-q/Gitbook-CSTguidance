@@ -17,6 +17,11 @@
 ## 🤏 STUDY
 
 * [5. 🧐学习相关](study/5.-xue-xi-xiang-guan.md)
+* [6. 🤣大一课程](study/6.-da-yi-ke-cheng/README.md)
+  * [英语听说Ⅰ](study/6.-da-yi-ke-cheng/ying-yu-ting-shuo.md)
+* [7. 😋大二课程](study/7.-da-er-ke-cheng.md)
+* [8. 😱大三课程](study/8.-da-san-ke-cheng.md)
+* [9. 😭大四课程](study/9.-da-si-ke-cheng.md)
 * [英语听说Ⅰ](study/ying-yu-ting-shuo.md)
 * [中国近现代史纲要](study/zhong-guo-jin-xian-dai-shi-gang-yao.md)
 * [大学语文](study/da-xue-yu-wen.md)
