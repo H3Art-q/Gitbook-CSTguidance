@@ -2,12 +2,17 @@
 
 ## 😚 INTRO
 
-* [0x00🐭给CST孩子们的一份小指南](README.md)
-* [0x01🤔想想自己未来要成为什么样的人吧](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba.md)
+* [0x00🐭CST的一份小指南](README.md)
+* [0x01🤔专业导引](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/README.md)
+  * [先来了解一下自己的专业吧](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/xian-lai-le-jie-yi-xia-zi-ji-de-zhuan-ye-ba.md)
+  * [专业所需的硬件设备](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/zhuan-ye-suo-xu-de-ying-jian-she-bei.md)
+  * [专业所需的软件设备](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/zhuan-ye-suo-xu-de-ruan-jian-she-bei.md)
 
 ## 😇 SURVIVAL(
 
-* [0x02🥵军训/新训相关](survival/2.-jun-xun-xin-xun-xiang-guan.md)
+* [0x02🥵军训/新训相关](survival/2.-jun-xun-xin-xun-xiang-guan/README.md)
+  * [军训/新训内容](survival/2.-jun-xun-xin-xun-xiang-guan/jun-xun-xin-xun-nei-rong.md)
+  * [参训之外的事情](survival/2.-jun-xun-xin-xun-xiang-guan/can-xun-zhi-wai-de-shi-qing.md)
 * [0x03🥳社团/组织相关](survival/3.-she-tuan-zu-zhi-xiang-guan.md)
 * [0x04🤑日常生活相关](survival/4.-ri-chang-sheng-huo-xiang-guan/README.md)
   * [浅谈吃饭事务](survival/4.-ri-chang-sheng-huo-xiang-guan/qian-tan-chi-fan-shi-wu.md)
