@@ -1,5 +1,5 @@
 ---
-description: （非计算机软件）
+description: (非计算机软件)
 ---
 
 # 专业所需的软件设备
