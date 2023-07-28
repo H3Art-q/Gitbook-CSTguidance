@@ -4,11 +4,11 @@ cover: .gitbook/assets/elliott-engelmann-30045.jpg
 coverY: 0
 ---
 
-# 0x00🐭CST的一份小指南
+# 0x00🐭\~/JNU/IS/CST/指南
 
 我是**哈特**(H3Art)，广东潮州人，会说潮州话、普通话~~以及潮州普通话~~，是2022级CST班的助教之一
 
-受到[Survive SJTU Manual](https://survivesjtu.gitbook.io/survivesjtumanual/)的影响，我自己决定也写一部更接地气一点的，关于我们JNU-CST的小指南，旨在帮学弟学妹们少踩一些坑，少走一点弯路，当然因为自己在大一下学期学了markdown语法所以写一份这个来练习一下（markdown现已加入非CST专业的大学生计算机基础课教学）
+受到[Survive SJTU Manual](https://survivesjtu.gitbook.io/survivesjtumanual/)的影响，我自己决定也写一部更接地气一点的，关于我们JNU-CST的小指南，旨在帮学弟学妹们少踩一些坑，少走一点弯路，当然因为自己在大一下学期学了markdown语法所以写一份这个来练习一下（2023年暑期更新：markdown现已加入非CST专业的大学生计算机基础课教学）
 
 ~~and介于我本人也才刚要成为一名大二学生，对就业/读研方面的了解还不够多，所以这篇指南的重点更多会放在自己大一生活经历的一些回顾与建议~~，今年要成为大三学生啦，但是指南的内容还是**以避坑为主**
 

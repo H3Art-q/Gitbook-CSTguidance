@@ -2,7 +2,7 @@
 
 ## 😚 INTRO
 
-* [0x00🐭CST的一份小指南](README.md)
+* [0x00🐭\~/JNU/IS/CST/指南](README.md)
 * [0x01🤔专业导引](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/README.md)
   * [先来了解一下自己的专业吧](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/xian-lai-le-jie-yi-xia-zi-ji-de-zhuan-ye-ba.md)
   * [专业所需的软件设备](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/zhuan-ye-suo-xu-de-ruan-jian-she-bei.md)
