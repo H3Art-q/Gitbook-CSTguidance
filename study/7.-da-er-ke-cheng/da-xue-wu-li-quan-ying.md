@@ -16,5 +16,10 @@ description: 最逆天的一门
 
 最后放上他去年给的教案和example还有我翻译过的example，如果你们有兴趣也可以把教案也试着翻译一下，搞个小组分下工直接干掉，效果应该也不错：
 
+教案：[下载链接](https://pan.baidu.com/s/1eURehueMTuZ8M6LhB3W7FQ) 提取码: 64ed
 
+Example：[下载链接](https://pan.baidu.com/s/1Lo3H2pYPHV0ckTDLBa_VMw) 提取码: u38n
 
+我翻译过的example：[下载链接](https://pan.baidu.com/s/1EJjwb2wEU-k5nrjKY16ZFw) 提取码: v2pj
+
+一些过往的作业答案也是有的：[21CST的](https://pan.baidu.com/s/1LY95rpPvyulNpKaFciDKpA) 提取码: v4p5 还有 [21FSE的](https://pan.baidu.com/s/1eHiOkkODezhxskQHebxLdA)（他们比CST早一个学期上了这门课，似乎CM也是一样的）提取码: zbpd

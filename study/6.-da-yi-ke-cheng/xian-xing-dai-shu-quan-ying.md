@@ -21,3 +21,5 @@ description: 我大一必修课程中留下最大的遗憾是它给的，希望�
 课本(与前面提到的数学教材一样，书的最后有课后题部分答案)，学期最后大约教到**Hermite矩阵**就宣告结束：[下载链接](https://pan.baidu.com/s/1nSaMjFXaJbr08wNl2g1Gpw) 提取码：2jh3
 
 课本课后题的答案有单独成册的一份pdf(但是也不全，而且可能与本书的版本不一致，会有一些题目对应不上的情况)：[下载链接](https://pan.baidu.com/s/1GjSV\_J2D9toshXwp98-DTw) 提取码：kva4
+
+经过一番操作搞到了21年的试卷：[下载链接](https://pan.baidu.com/s/140WVRVBazf1QHVEYutTanw) 提取码: 7rv2

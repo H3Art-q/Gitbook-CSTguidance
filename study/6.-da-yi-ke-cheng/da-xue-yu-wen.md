@@ -10,6 +10,6 @@ description: 似乎是暨大理/工科生的特有课程
 
 <figure><img src="../../.gitbook/assets/chbook.jpg" alt="" width="563"><figcaption><p>大学语文用书</p></figcaption></figure>
 
-最后是相关资料： 去年的考试试卷我没有，但我得到了一份2019年的版本：[下载链接](https://pan.baidu.com/s/1qmaEUpLkXBJ48SvjkLHq7A) 提取码：d4ox
+我得到了一份2021年和一份2019年的版本：[21年的](https://pan.baidu.com/s/1nRhhneSeatHg99CsRifOqQ) 提取码: 2r9r，[19年的](https://pan.baidu.com/s/1qmaEUpLkXBJ48SvjkLHq7A) 提取码：d4ox
 
 自己根据上一年老师给的重点整理的一份资料(作文部分不用看)：[下载链接](https://pan.baidu.com/s/1\_B4gfRTcvBV8-f88AqLPzg) 提取码：g9xf
