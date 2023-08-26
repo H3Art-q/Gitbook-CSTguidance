@@ -10,4 +10,6 @@ description: Prof.Huang的又一力作，一门画风奇怪的数学课
 
 电子版课本：[下载链接](https://pan.baidu.com/s/1OlOIU7IqIy\_N2vvxhbXkgQ) 提取码：rj8o
 
-上学年开卷考试时我用的资料(包含名词翻译解释以及作业的总结归纳，可以在学习的过程中看一下)：[下载链接](https://pan.baidu.com/s/1jGzuLQp\_AGHZ7M7BykSGUQ) 提取码：pinw
+神奇的solution manual：[下载链接](https://pan.baidu.com/s/1UXppNY_HZDWNR6KIGbERUA) 提取码: 6wfu
+
+上学年开卷考试时我用的资料(包含名词翻译解释以及作业的总结归纳，可以在学习的过程中看一下)：[下载链接](https://pan.baidu.com/s/1kYi2LHcKq1aNH6TmHgHdEg) 提取码: jrt6
