@@ -6,11 +6,11 @@ description: 大二上较为nice的一门专业课
 
 四大件硬课入门，某种程度上说，计组是导论plus，本课程的用书是Computer Systems: A Programmer's Perspective(CS:APP)，属于黑皮书里不管是内容、评价、配套练习之类都是第一梯队的好书，书中的序页里也提到，本书可以适用于不同培养课程的教学，它既可以被用作计算机导论的课本也可以被用作计算机组成原理的课本，我们的课程是以Computer Organization作为导向，教了1-6以及9-11章的内容
 
-图片
+<figure><img src="../../.gitbook/assets/CSAPP.png" alt="" width="362"><figcaption><p>最受好评の黑皮肌肉计科书</p></figcaption></figure>
 
 不出意外的话22级CST依然是由孙教授教学，Prof. Sun已经教了这门课很多年了，在他的教学下，本课程是我大二上期间唯一一门靠上课听讲听的比较有收获的课【，而且课程量不大，22年他放过我们不少假，但他的上课状态是很不错的，他属于十分想让我们听懂这门课的知识点，导致他会在面对我们confusing的脸的时候非常着急地用中文再努力解释一下，有点搞笑但感觉很用心了
 
-图片
+<figure><img src="../../.gitbook/assets/haoji.png" alt=""><figcaption></figcaption></figure>
 
 考勤的话，这门课的偶尔进行考勤，叫大家在下课前做几道书上的题并现场交上去（写在纸上），老师并不对这个进行记分应该，只是当作考勤用
 
