@@ -1,5 +1,5 @@
 ---
-description: 这门课相比上学期的难度有不小的提升，但课本、授课老师没有发生变化
+description: 这门课相比上学期的难度有不小的提升，授课教师依然为L.H Xia
 ---
 
 # 高等数学Ⅱ(信息类)(全英)
@@ -10,8 +10,6 @@ description: 这门课相比上学期的难度有不小的提升，但课本、�
 
 期末考前依然会有一份考前练习题，题量相较上学期的多了不少，注意**安排多点时间**做完校对，本学期难度提升后Mr. Xia为了让我们把这套题完成甚至**亲自录了两节视频**发在B站，复习建议同上学期：做好期末练习题，把本学期的作业校对全过一遍，真不会的就直接把答案背了都能拿到不少分。
 
-这么好的老师，不**考多点分**给他太对不起他了，最后放上学年的练习题及答案还有老师的视频讲解
-
-21-22学年度下学期期末前练习与答案：[下载链接](https://pan.baidu.com/s/1MKdlr15OiByG3IWC47LPHw) 提取码：2oic
+这么好的老师，不**考多点分**给他太对不起他了，最后放上老师期末练习题的视频讲解
 
 上述练习老师录制的讲解视频2个：[选择题部分](https://www.bilibili.com/video/BV1bW4y1k7Yd?share\_source=copy\_web\&vd\_source=2e2bcfa887bf8da9bde84af9fe79f8eb)，[填空题部分](https://www.bilibili.com/video/BV1nv4y1G7BU?share\_source=copy\_web\&vd\_source=2e2bcfa887bf8da9bde84af9fe79f8eb)

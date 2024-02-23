@@ -40,5 +40,3 @@ BMI计算公式：$$\mathrm{BMI} = 体重(\mathrm{kg})\div身高^2(\mathrm{m})$$
 <figure><img src="../../.gitbook/assets/PEgrademap3.jpg" alt=""><figcaption></figcaption></figure>
 
 课程的中期可能会叫大家写一篇**体育论文**，主题待定，老师可能会给一个范例，期末考试内容视运动类型而定
-
-体育论文范例(没什么价值，具体题目等到你们上课的时候才知道)：[下载链接](https://pan.baidu.com/s/1SnmnPvXCxDSF2lmKiwQlIQ) 提取码：kfqj
