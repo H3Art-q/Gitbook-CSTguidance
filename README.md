@@ -1,5 +1,5 @@
 ---
-description: 其实也算是个人本科生涯的回顾
+description: 也是个人本科生涯的回顾
 cover: .gitbook/assets/elliott-engelmann-30045.jpg
 coverY: 0
 ---
@@ -8,9 +8,9 @@ coverY: 0
 
 我是**哈特**(H3Art)，广东潮州人，会说潮州话、普通话~~以及潮州普通话~~，是2022级CST班的助教之一
 
-受到[Survive SJTU Manual](https://survivesjtu.gitbook.io/survivesjtumanual/)的影响，我自己决定也写一部更接地气一点的，关于我们JNU-CST的小指南，旨在帮学弟学妹们少踩一些坑，少走一点弯路，当然因为自己在大一下学期学了markdown语法所以写一份这个来练习一下（2023年暑期更新：markdown现已加入非CST专业的大学生计算机基础课教学）
+受到[Survive SJTU Manual](https://survivesjtu.gitbook.io/survivesjtumanual/)的影响，我自己决定也写一部更接地气一点的，关于我们JNU-CST的小指南，旨在帮学弟学妹们少踩一些坑，少走一点弯路，当然因为自己在大一下学期学了markdown语法所以写一份这个来练习一下（2023年暑期更新：markdown现已加入非CST专业的大学生计算机基础课教学），两年后（2024）本人已经是一个markdown老油条了【
 
-~~and介于我本人也才刚要成为一名大二学生，对就业/读研方面的了解还不够多，所以这篇指南的重点更多会放在自己大一生活经历的一些回顾与建议~~，今年要成为大三学生啦，但是指南的内容还是**以避坑为主**
+指南的内容是**以避坑为主**
 
 这部指南从2022年8月初开始编写，一开始以pdf形式导出，需要下载到本地观看。从2023年1月份起，我将它迁移到了Gitbook网站上，实现多端同步更新与查看，同时也发现了一点小问题，但恰好通过这个小问题先跟大家讲点东西
 

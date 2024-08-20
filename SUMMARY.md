@@ -9,7 +9,7 @@
   * [专业所需的硬件设备](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/zhuan-ye-suo-xu-de-ying-jian-she-bei.md)
   * [出路方向简述](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/chu-lu-fang-xiang-jian-shu.md)
 
-## 😇 SURVIVAL(
+## 😇 SURVIVAL
 
 * [0x02🥵军训/新训相关](survival/2.-jun-xun-xin-xun-xiang-guan/README.md)
   * [军训/新训内容](survival/2.-jun-xun-xin-xun-xiang-guan/jun-xun-xin-xun-nei-rong.md)
@@ -49,7 +49,13 @@
   * [软件工程(全英)](study/7.-da-er-ke-cheng/ruan-jian-gong-cheng-quan-ying.md)
   * [算法设计与分析(全英)](study/7.-da-er-ke-cheng/suan-fa-she-ji-yu-fen-xi-quan-ying.md)
   * [概率统计(全英)](study/7.-da-er-ke-cheng/gai-shuai-tong-ji-quan-ying.md)
-* [0x08😱大三课程](study/8.-da-san-ke-cheng.md)
+* [0x08😱大三课程](study/8.-da-san-ke-cheng/README.md)
+  * [机器学习(全英)](study/8.-da-san-ke-cheng/ji-qi-xue-xi-quan-ying.md)
+  * [计算机网络(全英)](study/8.-da-san-ke-cheng/ji-suan-ji-wang-luo-quan-ying.md)
+  * [数字图像处理(全英)](study/8.-da-san-ke-cheng/shu-zi-tu-xiang-chu-li-quan-ying.md)
+  * [数据库系统(全英)](study/8.-da-san-ke-cheng/shu-ju-ku-xi-tong-quan-ying.md)
+  * [人机交互(全英)](study/8.-da-san-ke-cheng/ren-ji-jiao-hu-quan-ying.md)
+  * [数值计算基础(全英)](study/8.-da-san-ke-cheng/shu-zhi-ji-suan-ji-chu-quan-ying.md)
 * [0x09😭大四课程](study/9.-da-si-ke-cheng.md)
 
 ## 👍 TAIL
