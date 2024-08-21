@@ -56,6 +56,11 @@
   * [数据库系统(全英)](study/8.-da-san-ke-cheng/shu-ju-ku-xi-tong-quan-ying.md)
   * [人机交互(全英)](study/8.-da-san-ke-cheng/ren-ji-jiao-hu-quan-ying.md)
   * [数值计算基础(全英)](study/8.-da-san-ke-cheng/shu-zhi-ji-suan-ji-chu-quan-ying.md)
+  * [密码算法与协议(全英)](study/8.-da-san-ke-cheng/mi-ma-suan-fa-yu-xie-yi-quan-ying.md)
+  * [统计学方法入门(全英)](study/8.-da-san-ke-cheng/tong-ji-xue-fang-fa-ru-men-quan-ying.md)
+  * [数据仓库与数据挖掘(全英)](study/8.-da-san-ke-cheng/shu-ju-cang-ku-yu-shu-ju-wa-jue-quan-ying.md)
+  * [C++程序设计(全英)](study/8.-da-san-ke-cheng/c++-cheng-xu-she-ji-quan-ying.md)
+  * [信息安全与管理(全英)](study/8.-da-san-ke-cheng/xin-xi-an-quan-yu-guan-li-quan-ying.md)
 * [0x09😭大四课程](study/9.-da-si-ke-cheng.md)
 
 ## 👍 TAIL
