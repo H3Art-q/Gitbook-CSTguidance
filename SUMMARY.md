@@ -62,8 +62,9 @@
   * [C++程序设计(全英)](study/8.-da-san-ke-cheng/c++-cheng-xu-she-ji-quan-ying.md)
   * [信息安全与管理(全英)](study/8.-da-san-ke-cheng/xin-xi-an-quan-yu-guan-li-quan-ying.md)
 * [0x09😭大四课程](study/9.-da-si-ke-cheng.md)
+* [0x0a🐀通识教育选修课](study/0x0a-tong-shi-jiao-yu-xuan-xiu-ke.md)
 
 ## 👍 TAIL
 
-* [0x0a💔恋爱相关](tail/6.-lian-ai-xiang-guan.md)
-* [0x0b🎁尾巴](tail/7.-wei-ba.md)
+* [0x0b💔恋爱相关](tail/6.-lian-ai-xiang-guan.md)
+* [0x0c🎁尾巴](tail/7.-wei-ba.md)
