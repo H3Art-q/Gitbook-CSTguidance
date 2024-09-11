@@ -8,7 +8,7 @@ coverY: 0
 
 > **⭐**如果本内容对你有帮助，可以为我在[仓库](https://github.com/H3Art-q/Gitbook-CSTguidance)的右上角点一个**小小的star**吗
 
-我是**哈特**(H3Art)，广东潮州人，会说潮州话、普通话~~以及潮州普通话~~，是2022级CST班的助教之一
+我是**哈特**([H3Art](https://h3art-q.github.io/))，广东潮州人，会说潮州话、普通话~~以及潮州普通话~~，是2022级CST班的助教之一
 
 受到[Survive SJTU Manual](https://survivesjtu.gitbook.io/survivesjtumanual/)的影响，我自己决定也写一部更接地气一点的，关于我们JNU-CST的小指南，旨在帮学弟学妹们少踩一些坑，少走一点弯路，当然因为自己在大一下学期学了markdown语法所以写一份这个来练习一下，虽然2023年后markdown已加入非CST专业的大学生计算机基础课教学中，但好像还是只有学计算机的喜欢写这玩意【
 
