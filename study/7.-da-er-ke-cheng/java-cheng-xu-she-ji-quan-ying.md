@@ -12,7 +12,7 @@ description: 相对简单但质量不错的课程，授课教师是Y.X Sun
 
 对于有选实验课的同学，这个课的实验强度比C语言的大一些，每次上课要完成**五个左右的程序编写**（当然在2024年GPT之类的AI助手肯定咔咔秒，但任务基本不涉及算法内容，绝大部分是语法练习，所以还是建议自己搓一搓熟悉一下），实验报告还是比较简单，写上每个问题、代码实现，后期面向对象时还要画UML图、bug与修复（~~她说没有那就自己编一个~~）这三个部分就行，**实验课偶尔考勤**，理论课不考勤
 
-实验课布置的题目来自教科书_Introduction to Java Programming and Data Structures_，不过老师没有提供电子版，需要的话可以dd我或者去zlib等平台上找
+实验课布置的题目来自教科&#x4E66;_&#x49;ntroduction to Java Programming and Data Structures_，不过老师没有提供电子版，需要的话可以dd我或者去zlib等平台上找
 
 <figure><img src="../../.gitbook/assets/Java_prog_e_book.png" alt="" width="362"><figcaption><p>电子版教材</p></figcaption></figure>
 

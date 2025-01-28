@@ -10,8 +10,8 @@ description: 下学期终于有真正碰点计算机的专业课了🤩，授课
 
 * 菜鸟教程：[Runoob](https://www.runoob.com/)，下滑到服务端那块就可以看到C的教程
 * [Baidu.com](https://www.baidu.com/)，[Bing.com](https://cn.bing.com/)，[Google.com](http://www.google.cn/)，懂的都懂，不懂的就查
-* 中国大学MOOC：[程序设计入门——C语言](https://www.icourse163.org/course/0809ZJU007A-199001?outVendor=zw\_mooc\_pclszykctj\_)，由浙江大学的翁恺教授中文讲课，好评如潮
-* B站上的公开课程：[黑马程序员C语言基础教程](https://www.bilibili.com/video/BV1vs411n7TH?share\_source=copy\_web\&vd\_source=2e2bcfa887bf8da9bde84af9fe79f8eb)，黑马是个就业培训机构，入门教程对付课内内容绰绰有余了
+* 中国大学MOOC：[程序设计入门——C语言](https://www.icourse163.org/course/0809ZJU007A-199001?outVendor=zw_mooc_pclszykctj_)，由浙江大学的翁恺教授中文讲课，好评如潮
+* B站上的公开课程：[黑马程序员C语言基础教程](https://www.bilibili.com/video/BV1vs411n7TH?share_source=copy_web\&vd_source=2e2bcfa887bf8da9bde84af9fe79f8eb)，黑马是个就业培训机构，入门教程对付课内内容绰绰有余了
 * 一个刷题网站：[洛谷](https://www.luogu.com.cn/)，对着左边栏的题单把入门题刷了对你上手c有很大帮助，**实践**是学习这些工具最快的办法
 
 写代码当然得有写代码的平台/工具，如果你等到这门课结课了还在**浏览器**网页的IDE(集成开发环境)上写代码，而且连**单步调试**都没搞明白，怎么说呢，很难让人相信你是一个**计算机系**的学生，以下列举几个写代码(仅针对于c/c++)的工具：
@@ -24,7 +24,7 @@ description: 下学期终于有真正碰点计算机的专业课了🤩，授课
 * Dev-C++：MOOC课程上是推荐这玩意，但我不是很推荐，它约等于一个**加强型记事本**，支持编译运行调试，但是上述的vs中标重点的功能它全都没有，写起来不顺手，除了比vs占用的空间小之外没什么显著优点
 * Code::Blocks：跟Dev-C++差不多，也可以试试
 * Clion：我也没用过，但是我舍友有用，这玩意似乎跟vs差不多，可以浅试一下
-* Visual Studio Code：听起来跟第一个玩意有点相似，但是他俩除了**爹都是微软**之外联系并不密切，这玩意不是集成开发环境，有一些东西需要自己摸索配置，适合**愿意多折腾自己电脑的同学**(_比如我自己_)，配置工作完成后进化为**神の记事本**，能写c/cpp能写python能写各种各样的东西，这整一篇指南都是在vs code上敲出来的，支持代码高亮、代码补全、单步调试……这玩意配置好了使用上跟vs没什么区别，而且空间占用小，打开速度快，但前提是你得有**一 颗 爱 折 腾 的 ♥**🥰
+* Visual Studio Code：听起来跟第一个玩意有点相似，但是他俩除了**爹都是微软**之外联系并不密切，这玩意不是集成开发环境，有一些东西需要自己摸索配置，适合**愿意多折腾自己电脑的同学**(_比如我自己_)，配置工作完成后进化为**神の记事本**，能写c/cpp能写python能写各种各样的东西，这整一篇指南都是在vs code上敲出来的，支持代码高亮、代码补全、单步调试……这玩意配置好了使用上跟vs没什么区别，而且空间占用小，打开速度快，但前提是你得有**一 颗 爱 折 腾 的 ♥**&#xD83E;�
 
 噢对了，上面的推荐主要是对Windows平台的，如果使用Mac的话那么就Xcode或者vscode，Xcode在macOS上与vs类似，vscode跨平台直接用就行(甚至比Windows下更好配置，不愧是苹果Appstore最佳开发者Microsoft)
 

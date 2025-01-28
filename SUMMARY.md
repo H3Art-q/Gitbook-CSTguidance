@@ -61,7 +61,14 @@
   * [数据仓库与数据挖掘(全英)](study/8.-da-san-ke-cheng/shu-ju-cang-ku-yu-shu-ju-wa-jue-quan-ying.md)
   * [C++程序设计(全英)](study/8.-da-san-ke-cheng/c++-cheng-xu-she-ji-quan-ying.md)
   * [信息安全与管理(全英)](study/8.-da-san-ke-cheng/xin-xi-an-quan-yu-guan-li-quan-ying.md)
-* [0x09😭大四课程](study/9.-da-si-ke-cheng.md)
+  * [软件工程中的形式化方法(全英)](study/8.-da-san-ke-cheng/ruan-jian-gong-cheng-zhong-de-xing-shi-hua-fang-fa-quan-ying.md)
+  * [信息检索(全英)](study/8.-da-san-ke-cheng/xin-xi-jian-suo-quan-ying.md)
+* [0x09😭大四课程](study/9.-da-si-ke-cheng/README.md)
+  * [面向对象方法学(全英)](study/9.-da-si-ke-cheng/mian-xiang-dui-xiang-fang-fa-xue-quan-ying.md)
+  * [编译构建(全英)](study/9.-da-si-ke-cheng/bian-yi-gou-jian-quan-ying.md)
+  * [计算机视觉(全英)](study/9.-da-si-ke-cheng/ji-suan-ji-shi-jue-quan-ying.md)
+  * [教育数据挖掘与分析(全英)](study/9.-da-si-ke-cheng/jiao-yu-shu-ju-wa-jue-yu-fen-xi-quan-ying.md)
+  * [计算机体系结构(全英)](study/9.-da-si-ke-cheng/ji-suan-ji-ti-xi-jie-gou-quan-ying.md)
 * [0x0a🐀通识教育选修课](study/0x0a-tong-shi-jiao-yu-xuan-xiu-ke.md)
 
 ## 👍 TAIL
