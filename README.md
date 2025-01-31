@@ -8,7 +8,7 @@ coverY: 0
 
 > ❗指南内容自大一暑假开始更新，其中些许表达，因个人认知的改变可能存在前后不一的现象\
 > \
-> &#xNAN;**⭐**&#x5982;果本内容对你有帮助，可以为我在[仓库](https://github.com/H3Art-q/Gitbook-CSTguidance)的右上角点一个**小小的star**吗\
+> ⭐如果本内容对你有帮助，可以为我在[仓库](https://github.com/H3Art-q/Gitbook-CSTguidance)的右上角点一个**小小的star**吗\
 > \
 > 🤗如果对这个指南里还有不够清楚的点也可以**Wechat**联&#x7CFB;**：\_H3Art\_**
 
