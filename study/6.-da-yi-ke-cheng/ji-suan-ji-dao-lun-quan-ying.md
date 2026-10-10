@@ -1,13 +1,35 @@
 ---
-description: 大一上唯一一门计算机专业独有的专业课，授课教师为Z.J Wu
+description: 汇总 Z.J Wu、S Long 讲授《计算机导论(全英)》期间的教学记录与贡献者评价
 ---
 
 # 计算机导论(全英)
 
-这门课2021上学年的授课老师来自**暨伯学院**，是有海外留学经历的教授，他应该是计算机专业课用英语上课**体验最好**的老师之一了(发音标准，偶尔会中文强调提示)，授课其实就跟听听讲座差不多，建议**带着电脑**去上课，遇到没了解过的东西直接百度/google/bing(暨大校园网支持直接**google**，但不能上油管/脸书/推特啥的)，课程内容涉及计算机的许多方面，但只是**蜻蜓点水**简单介绍就过，没有硬核的理解性内容
+## 课程信息
 
-这个课程几乎完全没有作业，基本不需要准备对应课本，看看老师的ppt就行了，我只记得我们上学年学期快要结束的时候，课程介绍到**python**(一种编程语言)，他让大家配置好运行环境，使用自带的**turtle**库(海龟画图)画一些图形，很简单的，打个forward加数字小海龟就前进多长这样子的代码，最后上交源代码作为作业
+| 项目 | 内容 |
+| --- | --- |
+| 课程类型 | 专业必修 |
+| 课程类别 | 计划内课程 |
+| 学分 | 3.0 |
+| 配套实验课 | 无 |
 
-基本上，这门课就是最适合大家**适应英语教学环境**的课程了，内容也大部分跟文科学习差不多，知道了有这回事就行。前年期末考试的形式是交一篇论文即可，而去年则是**笔试**，闭卷考试，需要做好准备，选择判断填空简答题都有(我上一年考试的时候在试卷上写的英文比英语考试的时候写得还多)
+## 课程简介
 
-最后的资料有： 可以看看B站上的[计算机科学速成课](https://www.bilibili.com/video/BV1EW411u7th?share\_source=copy\_web\&vd\_source=2e2bcfa887bf8da9bde84af9fe79f8eb)，同样是英文但有字幕，每集10分钟内，可以简略了解计算机的相关知识
+概览计算机系统、编程语言、网络与学科方向，建立专业学习的整体认识。
+
+## 授课教师
+
+### Z.J Wu
+
+[查看 Z.J Wu 的教学记录与贡献者评价 →](ji-suan-ji-dao-lun-quan-ying/z-j-wu/README.md)
+
+### S Long
+
+[查看 S Long 的教学记录与贡献者评价 →](ji-suan-ji-dao-lun-quan-ying/s-long/README.md)
+
+## 贡献者致谢
+
+| 贡献者 | 贡献内容 |
+| --- | --- |
+| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [H3Art-q](https://github.com/H3Art-q) 提供 Z.J Wu 条目的原始课程记录与个人评价。 |
+| [![sekirooox 的 GitHub 头像](https://github.com/sekirooox.png?size=80)](https://github.com/sekirooox/Gitbook-CSTguidance-ml) | 感谢 [MayL](https://github.com/sekirooox) 提供 S Long 条目的原始课程记录与个人评价。 |

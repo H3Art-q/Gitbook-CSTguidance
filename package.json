@@ -1,0 +1,17 @@
+{
+  "name": "gitbook-cstguidance-ml",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Local preview and static build tooling for the JNU-CST GitBook guide.",
+  "scripts": {
+    "dev": "honkit serve . _book",
+    "build": "honkit build . _book",
+    "check:content": "node scripts/check-content.mjs",
+    "check:content:strict": "node scripts/check-content.mjs --strict",
+    "test:content-check": "node --test scripts/check-content.test.mjs"
+  },
+  "devDependencies": {
+    "honkit": "^6.2.2"
+  }
+}

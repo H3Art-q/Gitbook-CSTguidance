@@ -1,30 +1,58 @@
 ---
-description: 也是个人本科生涯的回顾
+description: 面向暨南大学计算机科学与技术专业学生的学习与校园生活经验指南
 cover: .gitbook/assets/elliott-engelmann-30045.jpg
 coverY: 0
 ---
 
 # 0x00🐭\~/JNU/IS/CST/指南
 
-> ❗指南内容自大一暑假开始更新，其中些许表达，因个人认知的改变可能存在前后不一的现象\
-> \
-> ⭐如果本内容对你有帮助，可以为我在[仓库](https://github.com/H3Art-q/Gitbook-CSTguidance)的右上角点一个**小小的star**吗\
-> \
-> 🤗如果对这个指南里还有不够清楚的点也可以**Wechat**联&#x7CFB;**：\_H3Art\_**
+## 用途说明
 
-我是[**哈特**](https://h3art.cn)([H3Art](https://h3art-q.github.io/))，广东潮州人，会说潮州话、普通话~~以及潮州普通话~~，是2022级CST班的助教之一
+这是一份面向暨南大学计算机科学与技术（CST）专业学生的非官方经验指南，主要帮助你：
 
-受到[Survive SJTU Manual](https://survivesjtu.gitbook.io/survivesjtumanual/)的影响，我自己决定也写一部更接地气一点的，关于我们JNU-CST的小指南，旨在帮学弟学妹们少踩一些坑，少走一点弯路，当然因为自己在大一下学期学了markdown语法所以写一份这个来练习一下，虽然2023年后markdown已加入非CST专业的大学生计算机基础课教学中，但好像还是只有学计算机的喜欢写这玩意【
+- 在入学前完成专业、软硬件与校园生活准备；
+- 按年级查找课程体验与学习建议；
+- 了解校园生活、发展方向和过来人的专题经验；
+- 通过公开协作持续修正、补充指南。
 
-指南**以避坑为主**，主要内容涉及**新生入学的简单指引**和**本专业课程的个人评价**
+第一次访问时，可以先打开[快速导航](navigation/quick-navigation.md)，也可以直接从下方的常见任务或阶段入口开始。
 
-这份指南从2022年8月初开始编写，一开始以pdf形式导出，需要下载到本地观看。从2023年1月份起，我将它迁移到了Gitbook网站上，实现多端同步更新与查看，同时也发现了一点小问题，但恰好通过这个小问题先跟大家讲点东西
+## 免责声明
 
-* [访问Gitbook的链接](https://guidance.h3art.cn)
-* [访问Github同步仓库的链接](https://github.com/H3Art-q/Gitbook-CSTguidance)
+- 本指南来自作者与贡献者的个人经历，不代表暨南大学、学院或任课教师的官方意见。
+- 课程安排、培养方案、校园设施和办事规则会变化；涉及选课、学分、考试、奖助、升学等事项时，请以学校和学院最新通知为准。
+- 文中的评价具有时间与个人视角限制，适合用作线索，不应替代你自己的核实与判断。
+- 如发现过时、错误或可能引起误解的内容，请通过[GitHub Issue](https://github.com/sekirooox/Gitbook-CSTguidance-ml/issues)公开反馈。
 
-这个小问题就是**长城**，也就是一些同学网上冲浪时需要面对的🧱，如果没有越过这堵墙，访问这本在线指南有时将会令人抓狂。事实上，成为一名计算机系的学生，没有**翻墙**会成为你学习过程中很大的阻碍，因为好的第一方计算机知识往往不会第一时刻出现在**这里**
+## 常见任务入口
 
-同时基于我们的专业**全英教学**的背景，有不少教材、资料等都需要去外面看看，先布置个**小任务**给大家吧：在来到JNU之前，将自己浏览器的默认搜索引擎从baidu切换为Google或Bing，当然其中遇到的小问题（挂梯子）就要自己解决一下啦
+- **刚收到录取通知或准备报到：** [新生入门](navigation/new-students.md)
+- **查找学习建议、培养阶段或课程评价：** [学业与课程](navigation/academics-and-courses.md) · [课程总览](study/course-overview.md)
+- **了解军训、社团、饮食与日常事项：** [校园生活](navigation/campus-life.md)
+- **思考科研、就业、升学与长期方向：** [发展与成长](navigation/development-and-growth.md)
+- **阅读不按年级划分的个人经验：** [经验专题](navigation/experience-topics.md)
+- **纠错、补充或参与维护：** [参与贡献](navigation/contributing.md)
 
-然而我不会/不太可以直接放出那把梯子给你，请自己操作一下，接下来就开始八！
+## 按阶段阅读
+
+- **入学前：** [认识专业](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/xian-lai-le-jie-yi-xia-zi-ji-de-zhuan-ye-ba.md) → [软件准备](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/zhuan-ye-suo-xu-de-ruan-jian-she-bei.md) → [硬件准备](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/zhuan-ye-suo-xu-de-ying-jian-she-bei.md)
+- **大一：** [军训与新训](intro/2.-jun-xun-xin-xun-xiang-guan/README.md) → [课程总览](study/course-overview.md) → [大一课程](study/6.-da-yi-ke-cheng/README.md) → [校园日常](survival/4.-ri-chang-sheng-huo-xiang-guan/README.md)
+- **大二：** [大二课程](study/7.-da-er-ke-cheng/README.md) → [出路方向简述](growth/chu-lu-fang-xiang-jian-shu.md)
+- **大三：** [大三课程](study/8.-da-san-ke-cheng/README.md) → [发展与成长](navigation/development-and-growth.md)
+- **大四：** [大四课程](study/9.-da-si-ke-cheng/README.md) → [经验专题](navigation/experience-topics.md)
+
+## 项目缘起
+
+本指南最初由[哈特（H3Art）](https://h3art.cn)在本科期间编写。作者是广东潮州人，曾任 2022 级 CST 班助教；项目受 [Survive SJTU Manual](https://survivesjtu.gitbook.io/survivesjtumanual/) 启发，希望写一份更贴近 JNU CST 学生日常的指南，帮助后来者少踩坑、少走弯路。
+
+项目自 2022 年 8 月开始，最初以 PDF 形式发布，2023 年 1 月迁移到 GitBook，逐渐形成以新生指引和课程经验为主的在线文档。早期内容记录了作者当时的认识，随着时间和环境变化，前后观点可能不完全一致；这些历史痕迹会保留，但欢迎通过公开协作补充背景或修正信息。
+
+## 贡献入口
+
+请优先使用公开、可追踪的维护渠道，不必添加私人联系方式：
+
+- [提交 Issue](https://github.com/sekirooox/Gitbook-CSTguidance-ml/issues)：报告错误、过时信息或提出建议；
+- [发起 Pull Request](https://github.com/sekirooox/Gitbook-CSTguidance-ml/pulls)：直接补充或修正文档；
+- [查看贡献说明](navigation/contributing.md)：了解适合提交的内容和基本原则。
+
+阅读站点：[GitBook 版本](https://guidance.h3art.cn)；查看历史来源：[原始 GitHub 仓库](https://github.com/H3Art-q/Gitbook-CSTguidance)。

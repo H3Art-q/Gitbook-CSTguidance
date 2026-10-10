@@ -1,18 +1,31 @@
 ---
-description: 在四大专业课中硬度较高的一门，需要较好的数理逻辑和编程能力，授课教师是K Wang（已成为果园的过客）
+description: 汇总 K Wang 讲授《数据结构（全英）》期间的教学记录与贡献者评价
 ---
 
-# 数据结构(全英)
+# 数据结构（全英）
 
-四大专业课的另一门，我听说了23年的老师更换成了和20级那年相同的老师Prof. Lee，那我在老师评价方面就给不了多少建议了，只能粗略地再说一说我对这门课学习的一些理解
+## 课程信息
 
-数据结构与算法一般来说是离散数学这门课的知识在计算机编程上的延伸，而且更强调数据结构这方面的内容，因为后面还有一门专业课叫算法设计与分析。数据结构其实说白了就是你要用什么东西来对你想要的数据进行存储、查询、插入删除之类的操作，简单的举例：之前在C语言课程中学到的数组、链表就是一种简单的数据结构，它们都能实现对数据的存储、查询等操作，而接下来的课程也会继续接触更高级的数据结构，但实现它们的目的都是一样的：实现对特定某类数据的增删改查
+| 项目 | 内容 |
+| --- | --- |
+| 课程类型 | 专业必修 |
+| 课程类别 | 计划内课程 |
+| 学分 | 3.5 |
+| 配套实验课 | 无 |
 
-去年我们的学习是使用Python完成的，但听说23年应该会继续采用C语言进行教学，这意味着ZJU的陈越教授录制的[数据结构](https://www.icourse163.org/course/ZJU-93001)课程应该是一份不错的课前预习或课后复习材料，其实当年我是先看了她的课程再来上课的，结果突然用成了Python给我干傻了，还好这语言简单好学，当然学完C语言的大家上手Python应该也是非常简单的事情
+## 课程简介
 
-<figure><img src="../../.gitbook/assets/python_logo.jpeg" alt="" width="119"><figcaption><p>Life is short, we need Python.</p></figcaption></figure>
+学习线性表、树、图、查找和排序，理解数据组织与算法实现方法。
 
-（上一段有点偏题，但建议大伙沉淀一下[蟒语言](https://mofanpy.com/)，它方向繁多上手容易；C语言在本科生涯中，除非去电子那边搞单片机，计科这边很少有让大伙写C的课外工作，在课内用C纯粹是为了让大家更深刻地理解计算机系统，修内功来的）
+## 授课教师
 
-关于Lab，23年的课程对我来说是完全未知的，但是在练习这方面，根据各种OJ(Online Judge，之前提到过的[洛谷](https://www.luogu.com.cn/)、[Leetcode](https://leetcode.cn/problemset/all/))的题单刷一刷应该也是不错的，有时间就试试，没时间就跟着老师的安排走应该是没问题的，至少20级的助教学长在我们班群是盛赞过Lee老师的，最后对于这门课我就没有什么资料可以帮大家了，㊗️各位好运
+### K Wang
 
+[查看 K Wang 的教学记录与贡献者评价 →](shu-ju-jie-gou-quan-ying/k-wang/README.md)
+
+## 贡献者致谢
+
+| 贡献者 | 贡献内容 |
+| --- | --- |
+| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [H3Art-q](https://github.com/H3Art-q) 提供 K Wang 条目的原始课程记录与个人评价。 |
+| [![sekirooox 的 GitHub 头像](https://github.com/sekirooox.png?size=80)](https://github.com/sekirooox/Gitbook-CSTguidance-ml) | 感谢 [MayL](https://github.com/sekirooox) 提供 K Wang 条目的原始课程记录与个人评价。 |

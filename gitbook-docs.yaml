@@ -1,0 +1,13 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+
+site:
+  title: JNU CST 指南
+  structure:
+    - type: space
+      key: jnu-cst-guidance
+      title: JNU CST 指南
+      path: docs
+      default: true
+      content:
+        directory: ./
+        language: zh

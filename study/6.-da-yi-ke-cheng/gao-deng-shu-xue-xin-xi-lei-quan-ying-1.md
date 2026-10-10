@@ -1,15 +1,35 @@
 ---
-description: 这门课相比上学期的难度有不小的提升，授课教师依然为L.H Xia
+description: 汇总 L.H Xia、L.Q Wu 讲授《高等数学Ⅱ(信息类)(全英)》期间的教学记录与贡献者评价
 ---
 
 # 高等数学Ⅱ(信息类)(全英)
 
-继续上学期的学的知识，引入了**定积分、微分方程、多重积分**这些高级一点的知识点(但**没有教泰勒公式、无穷级数、傅里叶变换、向量**的内容)，但是这学期大家应该能够更好地跟上Xia.L.H老师上课的节奏，每周坚持把他的作业完成是问题不大的，作业不会就去书的最后面看看ANSWERS TO ODD-NUMBERED EXERCISES，对照着他出的题目慢慢由答案反推做法，总能学会的，再次强调**不要不写作业直到期末再补**❗
+## 课程信息
 
-基本的学习建议与上学期相同，但是**宋.浩**的高等数学视频里**微分方程**讲得比较不行，一阶微分方程理解背牢那个**epqep公式**就好了，二阶的微分方程书上会给出总结，这部分大家注意紧跟Mr. Xia的进度，因为他讲得足够**对症下药**了
+| 项目 | 内容 |
+| --- | --- |
+| 课程类型 | 专业必修 |
+| 课程类别 | 计划内课程 |
+| 学分 | 3.0 |
+| 配套实验课 | 无 |
 
-期末考前依然会有一份考前练习题，题量相较上学期的多了不少，注意**安排多点时间**做完校对，本学期难度提升后Mr. Xia为了让我们把这套题完成甚至**亲自录了两节视频**发在B站，复习建议同上学期：做好期末练习题，把本学期的作业校对全过一遍，真不会的就直接把答案背了都能拿到不少分。
+## 课程简介
 
-这么好的老师，不**考多点分**给他太对不起他了，最后放上老师期末练习题的视频讲解
+学习多元函数微积分、空间解析几何与级数等内容，延续高数基础训练。
 
-上述练习老师录制的讲解视频2个：[选择题部分](https://www.bilibili.com/video/BV1bW4y1k7Yd?share\_source=copy\_web\&vd\_source=2e2bcfa887bf8da9bde84af9fe79f8eb)，[填空题部分](https://www.bilibili.com/video/BV1nv4y1G7BU?share\_source=copy\_web\&vd\_source=2e2bcfa887bf8da9bde84af9fe79f8eb)
+## 授课教师
+
+### L.H Xia
+
+[查看 L.H Xia 的教学记录与贡献者评价 →](gao-deng-shu-xue-xin-xi-lei-quan-ying-1/l-h-xia/README.md)
+
+### L.Q Wu
+
+[查看 L.Q Wu 的教学记录与贡献者评价 →](gao-deng-shu-xue-xin-xi-lei-quan-ying-1/l-q-wu/README.md)
+
+## 贡献者致谢
+
+| 贡献者 | 贡献内容 |
+| --- | --- |
+| [![H3Art-q 的 GitHub 头像](https://github.com/H3Art-q.png?size=80)](https://github.com/H3Art-q/Gitbook-CSTguidance) | 感谢 [H3Art-q](https://github.com/H3Art-q) 提供 L.H Xia 条目的原始课程记录与个人评价。 |
+| [![sekirooox 的 GitHub 头像](https://github.com/sekirooox.png?size=80)](https://github.com/sekirooox/Gitbook-CSTguidance-ml) | 感谢 [MayL](https://github.com/sekirooox) 提供 L.Q Wu 条目的原始课程记录与个人评价。 |
