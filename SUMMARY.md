@@ -1,26 +1,25 @@
-# 目录
+# Table of contents
 
 ## 😚 INTRO
 
-* [0x00🐭\~/JNU/IS/CST/指南](README.md)
-* [0x01🧭导航总览](navigation/README.md)
+* [🐭\~/JNU/IS/CST/指南](README.md)
+* [🧭导航总览](navigation/README.md)
   * [快速导航](navigation/quick-navigation.md)
-
-* [0x02🎓新生入门](navigation/new-students.md)
-* [0x03🤔专业导引](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/README.md)
+* [🎓新生入门](navigation/new-students.md)
+* [🤔专业导引](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/README.md)
   * [先来了解一下自己的专业](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/xian-lai-le-jie-yi-xia-zi-ji-de-zhuan-ye-ba.md)
   * [专业所需的软件设备](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/zhuan-ye-suo-xu-de-ruan-jian-she-bei.md)
   * [专业所需的硬件设备](intro/1.-xiang-xiang-zi-ji-wei-lai-yao-cheng-wei-shi-mo-yang-de-ren-ba/zhuan-ye-suo-xu-de-ying-jian-she-bei.md)
-* [0x04🥵军训/新训相关](intro/2.-jun-xun-xin-xun-xiang-guan/README.md)
+* [🥵军训/新训相关](intro/2.-jun-xun-xin-xun-xiang-guan/README.md)
   * [军训/新训内容](intro/2.-jun-xun-xin-xun-xiang-guan/jun-xun-xin-xun-nei-rong.md)
   * [参训之外的事情](intro/2.-jun-xun-xin-xun-xiang-guan/can-xun-zhi-wai-de-shi-qing.md)
 
 ## 🤏 STUDY
 
-* [0x05📚学业与课程](navigation/academics-and-courses.md)
-* [0x06🧐学习相关](study/5.-xue-xi-xiang-guan.md)
-* [0x07🗂️课程总览](study/course-overview.md)
-* [0x08😋大一课程](study/6.-da-yi-ke-cheng/README.md)
+* [📚学业与课程](navigation/academics-and-courses.md)
+* [🧐学习相关](study/5.-xue-xi-xiang-guan.md)
+* [🗂️课程总览](study/course-overview.md)
+* [😋大一课程](study/6.-da-yi-ke-cheng/README.md)
   * [英语听说Ⅰ](study/6.-da-yi-ke-cheng/ying-yu-ting-shuo.md)
     * [Cecilia](study/6.-da-yi-ke-cheng/ying-yu-ting-shuo/cecilia/README.md)
       * [H3Art-q 的课程评价](study/6.-da-yi-ke-cheng/ying-yu-ting-shuo/cecilia/h3art-q.md)
@@ -70,7 +69,7 @@
   * [线性代数（全英）](study/6.-da-yi-ke-cheng/xian-xing-dai-shu-quan-ying.md)
     * [W.H Zhu](study/6.-da-yi-ke-cheng/xian-xing-dai-shu-quan-ying/w-h-zhu/README.md)
       * [H3Art-q 的课程评价](study/6.-da-yi-ke-cheng/xian-xing-dai-shu-quan-ying/w-h-zhu/h3art-q.md)
-* [0x09🤣大二课程](study/7.-da-er-ke-cheng/README.md)
+* [🤣大二课程](study/7.-da-er-ke-cheng/README.md)
   * [计算机组成原理（全英）](study/7.-da-er-ke-cheng/ji-suan-ji-zu-cheng-yuan-li-quan-ying.md)
     * [H Sun](study/7.-da-er-ke-cheng/ji-suan-ji-zu-cheng-yuan-li-quan-ying/h-sun/README.md)
       * [H3Art-q 的课程评价](study/7.-da-er-ke-cheng/ji-suan-ji-zu-cheng-yuan-li-quan-ying/h-sun/h3art-q.md)
@@ -105,7 +104,7 @@
     * [Z.Y He](study/7.-da-er-ke-cheng/gai-shuai-tong-ji-quan-ying/z-y-he/README.md)
       * [H3Art-q 的课程评价](study/7.-da-er-ke-cheng/gai-shuai-tong-ji-quan-ying/z-y-he/h3art-q.md)
       * [MayL 的课程评价](study/7.-da-er-ke-cheng/gai-shuai-tong-ji-quan-ying/z-y-he/MayL.md)
-* [0x0A😱大三课程](study/8.-da-san-ke-cheng/README.md)
+* [😱大三课程](study/8.-da-san-ke-cheng/README.md)
   * [计算机网络（全英）](study/8.-da-san-ke-cheng/ji-suan-ji-wang-luo-quan-ying.md)
     * [L Cui](study/8.-da-san-ke-cheng/ji-suan-ji-wang-luo-quan-ying/l-cui/README.md)
       * [H3Art-q 的课程评价](study/8.-da-san-ke-cheng/ji-suan-ji-wang-luo-quan-ying/l-cui/h3art-q.md)
@@ -114,12 +113,11 @@
     * [H.R Wu](study/8.-da-san-ke-cheng/shu-ju-ku-xi-tong-quan-ying/h-r-wu/README.md)
       * [H3Art-q 的课程评价](study/8.-da-san-ke-cheng/shu-ju-ku-xi-tong-quan-ying/h-r-wu/h3art-q.md)
       * [MayL 的课程评价](study/8.-da-san-ke-cheng/shu-ju-ku-xi-tong-quan-ying/h-r-wu/MayL.md)
-
-* [0x0B😭大四课程](study/9.-da-si-ke-cheng/README.md)
+* [😭大四课程](study/9.-da-si-ke-cheng/README.md)
   * [毕业论文](study/9.-da-si-ke-cheng/bi-ye-lun-wen.md)
   * [实习与实践](study/9.-da-si-ke-cheng/shi-xi-yu-shi-jian.md)
   * [形势与政策](study/9.-da-si-ke-cheng/xing-shi-yu-zheng-che.md)
-* [0x0C🧠专业选修](study/10.-zhuan-ye-xuan-xiu/README.md)
+* [🧠专业选修](study/10.-zhuan-ye-xuan-xiu/README.md)
   * [编译构建（全英）](study/10.-zhuan-ye-xuan-xiu/bian-yi-gou-jian-quan-ying.md)
     * [Z.H Jiang](study/10.-zhuan-ye-xuan-xiu/bian-yi-gou-jian-quan-ying/z-h-jiang/README.md)
       * [H3Art-q 的课程评价](study/10.-zhuan-ye-xuan-xiu/bian-yi-gou-jian-quan-ying/z-h-jiang/h3art-q.md)
@@ -182,37 +180,37 @@
   * [Java 程序设计（全英）](study/10.-zhuan-ye-xuan-xiu/java-cheng-xu-she-ji-quan-ying.md)
     * [Y.X Sun](study/10.-zhuan-ye-xuan-xiu/java-cheng-xu-she-ji-quan-ying/y-x-sun/README.md)
       * [H3Art-q 的课程评价](study/10.-zhuan-ye-xuan-xiu/java-cheng-xu-she-ji-quan-ying/y-x-sun/h3art-q.md)
-* [0x0D🐀通识教育选修课](study/0x0a-tong-shi-jiao-yu-xuan-xiu-ke.md)
+* [🐀通识教育选修课](study/0x0a-tong-shi-jiao-yu-xuan-xiu-ke.md)
 
 ## 😇 SURVIVAL
 
-* [0x0E🏫校园生活](navigation/campus-life.md)
-* [0x0F🥳社团/组织相关](survival/3.-she-tuan-zu-zhi-xiang-guan.md)
-* [0x10🤑日常生活相关](survival/4.-ri-chang-sheng-huo-xiang-guan/README.md)
+* [🏫校园生活](navigation/campus-life.md)
+* [🥳社团/组织相关](survival/3.-she-tuan-zu-zhi-xiang-guan.md)
+* [🤑日常生活相关](survival/4.-ri-chang-sheng-huo-xiang-guan/README.md)
   * [浅谈吃饭事务](survival/4.-ri-chang-sheng-huo-xiang-guan/qian-tan-chi-fan-shi-wu.md)
   * [关于非正餐消费](survival/4.-ri-chang-sheng-huo-xiang-guan/guan-yu-fei-zheng-can-xiao-fei.md)
   * [校园生活零散提醒](survival/4.-ri-chang-sheng-huo-xiang-guan/za-xiang-qiang-tiao.md)
 
 ## 🚀 GROWTH
 
-* [0x11🚀发展与成长](navigation/development-and-growth.md)
-* [0x12🛤️出路方向简述](growth/chu-lu-fang-xiang-jian-shu/README.md)
+* [🚀发展与成长](navigation/development-and-growth.md)
+* [🛤️出路方向简述](growth/chu-lu-fang-xiang-jian-shu/README.md)
   * [保研](growth/chu-lu-fang-xiang-jian-shu/bao-yan/README.md)
     * [MayL 的保研经验贴](growth/chu-lu-fang-xiang-jian-shu/bao-yan/MayL.md)
   * [考研](growth/chu-lu-fang-xiang-jian-shu/kao-yan/README.md)
   * [考公](growth/chu-lu-fang-xiang-jian-shu/kao-gong/README.md)
   * [留学](growth/chu-lu-fang-xiang-jian-shu/liu-xue/README.md)
-* [0x13🫤竞赛](growth/jing-sai/README.md)
+* [🫤竞赛](growth/jing-sai/README.md)
   * [MayL 的数学建模比赛经验](growth/jing-sai/MayL.md)
-* [0x14🕵️科研](growth/ke-yan/README.md)
+* [🕵️科研](growth/ke-yan/README.md)
   * [MayL 的科研选择导师建议](growth/ke-yan/MayL.md)
+
 ## 👍 TAIL
 
-
-* [0x15💡经验专题](navigation/experience-topics.md)
-* [0x16💔恋爱相关](tail/6.-lian-ai-xiang-guan.md)
-* [0x17🎁尾巴](tail/7.-wei-ba.md)
+* [💡经验专题](navigation/experience-topics.md)
+* [💔恋爱相关](tail/6.-lian-ai-xiang-guan.md)
+* [🎁尾巴](tail/7.-wei-ba.md)
 
 ## 🥰 CONTRIBUTION
 
-* [0x18🤝参与贡献](navigation/contributing.md)
+* [🤝参与贡献](navigation/contributing.md)
